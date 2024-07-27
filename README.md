@@ -1,2 +1,2 @@
 # myPiProject
-pi project course
+this repo is for practicing the pi project course
